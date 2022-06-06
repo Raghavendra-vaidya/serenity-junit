@@ -54,6 +54,14 @@
             <version>3.22.0</version>
             <scope>test</scope>
         </dependency>
+
+        <!--this is reqd for serenityRunner.class-->
+        <dependency>
+            <groupId>net.serenity-bdd</groupId>
+            <artifactId>serenity-junit</artifactId>
+            <version>3.2.4</version>
+        </dependency>
+
     </dependencies>
     <build>
         <plugins>
