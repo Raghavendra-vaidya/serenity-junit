@@ -6,7 +6,7 @@ Get started quickly with Serenity BDD and JUnit 5 with this simple starter proje
 
 Click on the [Use This Template button](https://github.com/serenity-bdd/serenity-junit-starter/generate) to create a new project in your own Github account. 
 
-Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-starter/archive/master.zip) file.
+Or simply [download a zip](https://github.com/serenity-bdd/serenity-junit-starter/archive/master.zip) file
 
 ## Running the tests under Maven
 
